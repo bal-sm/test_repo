@@ -2,4 +2,4 @@ Hello world, my name is Iqbal!
 
 Develop branch has been created. Squoshhh
 
-Try to merge from develop to main now
+Try to merge from develop to main now. Success!
